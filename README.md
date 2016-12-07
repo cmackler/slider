@@ -1,0 +1,2 @@
+# slider
+Simple jQuery Slider
